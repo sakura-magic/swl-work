@@ -1,0 +1,18 @@
+{
+  "name": "swl-work/swl-work",
+  "description": "one easy php framework",
+  "authors": [
+    {
+      "name": "WXW",
+      "email": "2929209457@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "work\\" : "workspace",
+      "server\\" : "server",
+      "app\\" : "app",
+      "box\\" : "box"
+    }
+  }
+}
